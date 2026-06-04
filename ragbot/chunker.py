@@ -1,7 +1,7 @@
 # chunker.py
 # Splits documents into smart overlapping chunks
 
-from langchain_text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 
 def get_splitter(ext: str):
