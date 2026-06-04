@@ -1,0 +1,10 @@
+chromadb
+sentence-transformers
+rank-bm25
+langchain
+langchain-community
+langchain-text-splitters
+groq
+gradio
+gitpython
+python-dotenv
