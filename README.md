@@ -3,7 +3,7 @@
 Ask anything about any GitHub repository using AI!
 
 ## 🚀 Live Demo
-[Click Here to Try](your_huggingface_link_here)
+[Click Here to Try](https://huggingface.co/spaces/rahitya1105/github-ragbot)
 
 ## ✨ Features
 - Load ANY GitHub repository instantly
